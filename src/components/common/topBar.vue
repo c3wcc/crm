@@ -105,7 +105,7 @@ export default {
   }
   .main-div .logo {
     height: 100%;
-    background-color: rgb(15, 15, 15);
+    background-color:#2062E7;
     color: #fff;
   }
   .main-div .select-mode {

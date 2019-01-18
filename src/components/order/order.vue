@@ -54,11 +54,11 @@ export default {
           children: [
             {
               name: '下单关怀',
-              path: '/order/1',
+              path: '/order/orderCare1',
             },
             {
               name: '下单关怀(货到)',
-              path: '/order/2'
+              path: '/order/orderCare2'
             },
             {
               name: '处方药关怀',

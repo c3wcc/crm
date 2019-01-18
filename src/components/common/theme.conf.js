@@ -2,14 +2,14 @@
 export default {
   'theme-color-defualt': {
     // 顶部栏
-    topMenuBgColor: '#409eff',
-    topMenuTextColor: '#ffffff',
-    topMenuAcTextColor: '#ffd38a',
+    topMenuBgColor: '#2062E7',
+    topMenuTextColor: '#FFFFFF',
+    topMenuAcTextColor: '#FFCE00',
   
     // 侧栏
-    asideMenuBgColor: '#ffffff',
+    asideMenuBgColor: '#FFFFFF',
     asideMenuTextColor: '#000000',
-    asideMenuAcTextColor: '#409eff',
+    asideMenuAcTextColor: '#2062E7',
 
     // 普通按钮
     generalBtnColor: '#409eff',

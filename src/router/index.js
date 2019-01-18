@@ -47,8 +47,8 @@ const defalutRouter = [
     name: 'order',
     component: order,
     children: [
-      { path: '1', component: orderCare },
-      { path: '2', component: orderCare },
+      { path: 'orderCare1', component: orderCare },
+      { path: 'orderCare2', component: orderCare },
       { path: '3', component: orderCare },
       { path: '4', component: orderCare },
       { path: '5', component: orderCare },
